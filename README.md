@@ -16,7 +16,3 @@ This project is a web-based implementation of the classic Tic-Tac-Toe game. The 
 - Displays the winner or draw status
 - Reset game functionality
 
-### Clone the Repository
-
-If you have Git installed, you can clone the repository using the following command:
-
