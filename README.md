@@ -15,4 +15,3 @@ This project is a web-based implementation of the classic Tic-Tac-Toe game. The 
 - Real-time turn updates
 - Displays the winner or draw status
 - Reset game functionality
-
